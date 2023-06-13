@@ -68,7 +68,7 @@ In the design area, I have experience working for electronic music parties and p
 * 🌍  Minas Gerais, Brazil
 * ✉️  contact me at <a href="mailto:sauloviniciust@gmail.com" target="_blank" rel="noreferrer">sauloviniciust@gmailcom.br.</a>  
 * 🚀 Currently working on a <a href="https://spacechronix.vercel.app" target="_blank" rel="noreferrer">personal website.</a>  
-* 🧠  I'm learning Javascript 
+* 🧠  I'm learning Javascript and ReactJS
 * 🤝  Looking for services like Front end developer or designer.
 
 ### Badges
