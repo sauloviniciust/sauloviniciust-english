@@ -101,11 +101,16 @@ In the design area, I have experience working for electronic music parties and p
 ### Socials
 
 <p align="left"> 
-  <a href="https://www.github.com/sauloviniciust" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+     <a href="wa.link/fovx6s" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/767px-WhatsApp.svg.png" width="32" height="32"></a> 
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.github.com/sauloviniciust" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/G/github-logo-2E3852456C-seeklogo.com.png" width="32" height="32" /></a>
 &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/saulo-vinicius-b05b38271" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/sauloviniciust.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
+  <a href="https://www.instagram.com/sauloviniciust.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.twitter.com/sauloviniciust" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-   <a href="wa.link/fovx6s" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
+  <a href="https://www.twitter.com/sauloviniciust" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+   &nbsp;&nbsp;&nbsp;
+  <a href="https://www.threads.net/@sauloviniciust" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Threads_%28app%29.png/600px-Threads_%28app%29.png" width="32" height="32" /></a>
+
+
