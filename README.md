@@ -35,7 +35,7 @@ In the design area, I have experience working for electronic music parties and p
   
   </p>
   
-### Aprendendo
+### Learning
 * ReactJS
 * Backend
 * SQL
