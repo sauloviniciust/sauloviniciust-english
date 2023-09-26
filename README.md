@@ -57,7 +57,7 @@ VsCode | Nodejs | Git | Bash
 
 </p>
   
-### Aprendendo
+### Learning
 
 SQL
  
@@ -68,7 +68,7 @@ SQL
 </p>
 
 ### Designer 
-Figma | Photoshop | Ilustrador | Adobe Premiere (Edição de vídeo) | After Effect (Motion Graphics )
+Figma | Photoshop | Ilustrador | Adobe Premiere (Video Edit) | After Effect (Motion Graphics )
 
 <p align="left">
 
@@ -81,7 +81,7 @@ Figma | Photoshop | Ilustrador | Adobe Premiere (Edição de vídeo) | After Eff
 </p>
 
 ### Sound Designer 
-Ableton Live (Produção Musical) | Traktor (DJing) | Vcv Rack (Sound design)
+Ableton Live (Musical Production) | Traktor (DJing) | Vcv Rack (Sound design)
 
 <p align="left">
   
