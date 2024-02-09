@@ -103,8 +103,8 @@ Ableton Live (Musical Production) | Traktor (DJing) | Vcv Rack (Sound design)
 
 * 🌍  Minas Gerais, Brazil
 * ✉️  contact me at <a href="mailto:sauloviniciust@gmail.com" target="_blank" rel="noreferrer">sauloviniciust@gmail.com.br.</a>  
-* 🚀 Currently working on a <a href="https://spacechronix.vercel.app" target="_blank" rel="noreferrer">personal website.</a>  
-* 🧠  I'm learning ReactJS
+* 🚀 Currently working on a <a href="https://devsaulo.vercel.app" target="_blank" rel="noreferrer">Portfolio.</a>  
+* 🧠  I'm learning Back-end and Foundations of IA 
 * 🤝  Looking for services like Front end developer or designer.
 
 ### Badges
