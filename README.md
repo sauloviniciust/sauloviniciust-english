@@ -8,7 +8,7 @@
 ### About me
 I started my full-stack development journey in January 2023 at Coderhouse school. I have a background in HTML and CSS, and am continually improving my skills in this area. I'm currently taking a JavaScript course and I'm really enjoying exploring this domain.
 
-At the same time, I have web development projects that help me improve my skills, and keep me more and more confident with html and css development. I am currently working on my personal pages, which involve my project as an electronic music producer and sound designer.
+At the same time, I have web development projects that help me to learn and improve my skills, and keep me more and more confident with Front-end development. I am currently working on personal pages like <a href="https://devsaulo.vercel.app" target="_blank" rel="noreferrer">Portfolio</a>, <a href="https://bloogr.vercel.app" target="_blank" rel="noreferrer">Blog</a>, <a href="https://bodylife.vercel.app" target="_blank" rel="noreferrer">Shop</a>, and another models of aplications. 
 
 In the design area, I have experience working for electronic music parties and psychedelic designs for products such as visual identity, flyers, glasses, tickets, and t-shirts. I was also involved in digital video creation and editing projects for publicizing events and artists, as well as after movies of artist presentations and events in general.
 
@@ -23,7 +23,7 @@ ReactJS | Next | Typescript | Tailwind
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="36" />
 <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="36" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="36" />
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="36" />
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2560px-Tailwind_CSS_Logo.svg.png" width="42" />
 
 </p>
   
