@@ -3,7 +3,7 @@
 
 # Hello!! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Saulo Vinícius 🖖
 
-## Full-stack Developer | Music Producer | Designer
+## Front End Developer 
 
 ### About me
 I started my full-stack development journey in January 2023 at Coderhouse school. I have a background in HTML and CSS, and am continually improving my skills in this area. I'm currently taking a JavaScript course and I'm really enjoying exploring this domain.
